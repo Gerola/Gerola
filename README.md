@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Matthew Gerola currently pursuing a Computer Science degree at Washington State University and will graduate in the spring of 2024. When I graduate I have the goal of working in the cybersecurity industry. I want to pursue a job in this industry because I am fascinated by the field and all that encompasses it.
+
+LinkedIn -- <br>
+Indeed --
 
 <!--
 **Gerola/Gerola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
