@@ -10,9 +10,10 @@ I'm Matthew Gerola I am currently studying Computer Science at Washington State 
 
 
 
-
 #### Learning:
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=%23384d54)
+![Powershell](https://img.shields.io/badge/Powershell-%23ADD8E6?style=for-the-badge&logo=Powershell&color=%23D3D3D3)
+
 
 #### Contact Information
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=000000)<br>
