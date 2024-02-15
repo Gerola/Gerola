@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Matthew Gerola<br><br>
-I am currently studying Computer Science at Washington State University and will graduate in the Spring of 2024. My goal is to have a career in the cyber security branch of computer science. Below are some of the skills I have acquired while at Washington State University. Along with websites where I learn things relating to cyber security.
+I am currently studying Computer Science at Washington State University and will graduate in the Spring of 2024. My goal is to have a career in the cyber security branch of computer science. Below are some of the skills I have acquired while at Washington State University. Along with websites where I learn/practice.
 
 #### Skills:
 - ![Linux](https://img.shields.io/badge/linux-333333?style=for-the-badge&logo=Linux&logoColor=%23ffffff)
@@ -9,7 +9,7 @@ I am currently studying Computer Science at Washington State University and will
 - ![C++](https://img.shields.io/badge/C%2B%2B-00008b?style=for-the-badge&logo=C%2B%2B&logoColor=%23FFFFFF)
 - ![Github](https://img.shields.io/badge/Github-dddddd?style=for-the-badge&logo=GitHub&logoColor=000000)
 
-#### Websites where I learn things:<br>
+#### Websites where I learn/practice:<br>
 - [TryHackMe](https://tryhackme.com/)
 - [PicoCTF](https://picoctf.org/)
 - [CryptoHack](https://cryptohack.org/)
