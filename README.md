@@ -1,13 +1,6 @@
 ### Hi there 👋
 I'm Matthew Gerola<br><br>
-I am currently studying Computer Science at Washington State University and will graduate in the Spring of 2024. My goal is to have a career in the cyber security branch of computer science. Below are some of the skills I have acquired while at Washington State University. Along with websites where I learn/practice.
-
-#### Skills:
-- ![Linux](https://img.shields.io/badge/linux-333333?style=for-the-badge&logo=Linux&logoColor=%23ffffff)
-- ![Python](https://img.shields.io/badge/python-4b8bbe?style=for-the-badge&logo=Python&logoColor=%23ffd43b)
-- ![C language](https://img.shields.io/badge/C-b2b2b2?style=for-the-badge&logo=C&logoColor=%23000073)
-- ![C++](https://img.shields.io/badge/C%2B%2B-00008b?style=for-the-badge&logo=C%2B%2B&logoColor=%23FFFFFF)
-- ![Github](https://img.shields.io/badge/Github-dddddd?style=for-the-badge&logo=GitHub&logoColor=000000)
+I am currently studying Computer Science at Washington State University and will graduate in the Spring of 2024. My goal is to have a career in the cyber security branch of computer science. Below are some of the websites where I learn/practice.
 
 #### Websites where I learn/practice:<br>
 - [TryHackMe](https://tryhackme.com/)
@@ -16,7 +9,8 @@ I am currently studying Computer Science at Washington State University and will
 - [HackTheBox](https://www.hackthebox.com/)
 - [CodeWars](https://www.codewars.com/)
 
-
+#### Contact Information
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=000000)](https://www.linkedin.com/in/matthew-gerola/)<br>
 
 <!--
 **Gerola/Gerola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,11 +22,21 @@ I am currently studying Computer Science at Washington State University and will
 
 
 #### Contact Information
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=000000)<br>
 ![Indeed](https://img.shields.io/badge/Indeed-2164f3?style=for-the-badge&logo=Indeed&logoColor=000000)
 
+![TryHackMe](https://img.shields.io/badge/TryHackMe-808080?style=for-the-badge&logo=TryHackMe&logoColor=E3242B)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-808080?style=for-the-badge&logo=HackTheBox&logoColor=39ff14)
+![CodeWars](https://img.shields.io/badge/CodeWars-808080?style=for-the-badge&logo=CodeWars&logoColor=610c04)
 
 
+
+
+#### Skills:
+- ![Linux](https://img.shields.io/badge/linux-333333?style=for-the-badge&logo=Linux&logoColor=%23ffffff)
+- ![Python](https://img.shields.io/badge/python-4b8bbe?style=for-the-badge&logo=Python&logoColor=%23ffd43b)
+- ![C language](https://img.shields.io/badge/C-b2b2b2?style=for-the-badge&logo=C&logoColor=%23000073)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00008b?style=for-the-badge&logo=C%2B%2B&logoColor=%23FFFFFF)
+- ![Github](https://img.shields.io/badge/Github-dddddd?style=for-the-badge&logo=GitHub&logoColor=000000)
 
 Here are some ideas to get you started:
 
