@@ -5,6 +5,7 @@ I graduated from Washington State University with a degree in Computer Science. 
 #### Websites where I learn/practice:<br>
 - [TryHackMe](https://tryhackme.com/)
 - [PicoCTF](https://picoctf.org/)
+- [Web Security Academy](https://portswigger.net/web-security)
 - [CryptoHack](https://cryptohack.org/)
 - [HackTheBox](https://www.hackthebox.com/)
 - [CodeWars](https://www.codewars.com/)
