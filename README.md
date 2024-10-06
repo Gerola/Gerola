@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm Matthew Gerola,<br><br>
-Below are some of the websites where I learn/practice.
+Below are some of the websites where I learn:
 
 #### Websites where I learn/practice:<br>
 - [TryHackMe](https://tryhackme.com/)
