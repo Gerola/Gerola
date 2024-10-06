@@ -1,6 +1,6 @@
 # Hi there 👋
-I'm Matthew Gerola<br><br>
-I graduated from Washington State University with a degree in Computer Science. My goal is to have a career in the cyber security branch of computer science. Below are some of the websites where I learn/practice.
+I'm Matthew Gerola,<br><br>
+Below are some of the websites where I learn/practice.
 
 #### Websites where I learn/practice:<br>
 - [TryHackMe](https://tryhackme.com/)
