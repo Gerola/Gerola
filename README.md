@@ -2,22 +2,21 @@
 I'm Matthew Gerola,<br><br>
 Below are some of the websites where I learn:
 
-#### Websites where I learn/practice:<br>
+#### Websites where I learn:<br>
 - [TryHackMe](https://tryhackme.com/)
-- [PicoCTF](https://picoctf.org/)
 - [CyberDefenders](https://cyberdefenders.org/)
+- [PicoCTF](https://picoctf.org/)
 - [Web Security Academy](https://portswigger.net/web-security)
 - [CryptoHack](https://cryptohack.org/)
 - [HackTheBox](https://www.hackthebox.com/)
 - [CodeWars](https://www.codewars.com/)
 - [LetsDefend](https://letsdefend.io/)
 
-#### Contact Information
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=000000)](https://www.linkedin.com/in/matthew-gerola/)<br>
 
 <!--
 **Gerola/Gerola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+#### Contact Information
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=000000)](https://www.linkedin.com/in/matthew-gerola/)<br>
 
 #### Learning:
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=%23384d54)
